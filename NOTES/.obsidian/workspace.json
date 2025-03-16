@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "6983c29fd1e855f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "418f6977a181cf45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66a6178586faa5db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-03-16.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-03-16"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bf0d604142d049ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5f091a4d1d374da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "51229f5ac7380b5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "a910cfda8a7da3e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6e0757af8992e9d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3f271f61656e7dd5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4628ef79df66a45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b3ea54703170a07",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "0cf103483ec45269",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "28361fd728d66cd0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "12a93c2ca133a3dc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Welcome.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Welcome"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "66a6178586faa5db",
+  "lastOpenFiles": [
+    "1. Projects/Daily todos/2025-03-15.md",
+    "1. Projects/Daily todos/2025-03-16.md",
+    "3. Resources/Templates/Daily Note Template.md",
+    "2025-03-15.md",
+    "1. Projects/Daily todos",
+    "3. Resources/SETUP/LIST CALLOUTS.md",
+    "3. Resources/Templates",
+    "3. Resources/SETUP/Untitled.md",
+    "3. Resources/SETUP",
+    "4. Archives",
+    "3. Resources",
+    "2. Areas",
+    "1. Projects",
+    "Welcome.md"
+  ]
+}
