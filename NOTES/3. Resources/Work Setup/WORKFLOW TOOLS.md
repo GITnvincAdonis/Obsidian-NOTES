@@ -1,0 +1,11 @@
+- TMUX
+- z shell
+- postgres
+- vimium (browser navigations)
+- Lazy vim
+- GITLAB
+- Bit Warden browser extention (password manager)
+- Docker https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04#step-1-installing-docker
+- Thunderbird
+- SSH keys
+- xclip

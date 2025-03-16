@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-16.md",
+                "file": "3. Resources/Work Setup/PLUGINS/LAZYGIT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-16"
+              "title": "LAZYGIT"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "call",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,15 +169,24 @@
   },
   "active": "66a6178586faa5db",
   "lastOpenFiles": [
-    "1. Projects/Daily todos/2025-03-15.md",
+    "3. Resources/Work Setup/Disabling LAZYVIM plugins.md",
+    "3. Resources/Work Setup/PLUGINS/LAZYGIT.md",
+    "3. Resources/Work Setup/PLUGINS",
+    "3. Resources/Work Setup/RESETTING DATABASE DATA IN SHOPONLINE PROJECT. INTELLECTSTORM.md",
+    "3. Resources/Work Setup/SETTING UP SSH keys.md",
+    "3. Resources/Work Setup/WORKFLOW TOOLS.md",
+    "3. Resources/OBSIDIAN SETUP/LIST CALLOUTS.md",
+    "3. Resources/OBSIDIAN SETUP/MANAGING AND SETTING UP OBSIDIAN REPO.md",
     "1. Projects/Daily todos/2025-03-16.md",
+    "3. Resources/Untitled/Untitled",
+    "3. Resources/Work Setup",
+    "1. Projects/Daily todos/2025-03-15.md",
     "3. Resources/Templates/Daily Note Template.md",
     "2025-03-15.md",
     "1. Projects/Daily todos",
-    "3. Resources/SETUP/LIST CALLOUTS.md",
     "3. Resources/Templates",
     "3. Resources/SETUP/Untitled.md",
-    "3. Resources/SETUP",
+    "3. Resources/OBSIDIAN SETUP",
     "4. Archives",
     "3. Resources",
     "2. Areas",
