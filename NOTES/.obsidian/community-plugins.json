@@ -1,5 +1,11 @@
 [
   "obsidian-list-callouts",
   "obsidian-excalidraw-plugin",
-  "vimium"
+  "vimium",
+  "calendar",
+  "obsidian-checklist-plugin",
+  "obsidian-day-planner",
+  "note-refactor-obsidian",
+  "zoottelkeeper-obsidian-plugin",
+  "dataview"
 ]

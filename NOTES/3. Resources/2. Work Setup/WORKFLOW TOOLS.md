@@ -1,5 +1,5 @@
 - TMUX
-- z shell
+- ohmyzsh 
 - postgres
 - vimium (browser navigations)
 - Lazy vim
@@ -8,4 +8,4 @@
 - Docker https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-on-ubuntu-20-04#step-1-installing-docker
 - Thunderbird
 - SSH keys
-- xclip
+- xclip 
