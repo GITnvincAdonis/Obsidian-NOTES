@@ -21,5 +21,15 @@ sudo apt install python3-venv
 4. create and activate the virtual environment
 ```
 python3 -m venv jup_notebook
-source Jup_notebook/bin/activate
+source jup_notebook/bin/activate
+```
+
+5. Install jupyter
+```
+pip install jupyter
+```
+
+6.  Activate jupyter Notebook server
+```
+jupyter notebook
 ```

@@ -26,4 +26,4 @@ sudo snap install neovim --classic
 ```
 https://github.com/tmux-plugins/tpm
 ```
-Link to original: [[2025-03-17]]
+Link to original: [[2025-03-17 Setup Dev Environment]]

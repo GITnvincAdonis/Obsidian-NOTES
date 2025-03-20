@@ -5,7 +5,7 @@
   "headingFormat": "#",
   "newFileLocation": 1,
   "customFolder": "",
-  "fileNamePrefix": "{{date: YYYY-MM-DD}} ",
+  "fileNamePrefix": "{{date:YYYY-MM-DD}} ",
   "transcludeByDefault": false,
   "noteLinkTemplate": "",
   "refactoredNoteTemplate": "---\ncreation date: <% tp.file.creation_date() %>\n---\n\nLink to original: {{link}}",

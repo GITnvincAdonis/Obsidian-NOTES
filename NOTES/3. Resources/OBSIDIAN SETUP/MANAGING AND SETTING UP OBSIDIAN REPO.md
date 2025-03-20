@@ -2,7 +2,8 @@
 > [!Danger] Setup with GITHUB access token
 > 
 
-The repository for managing this vault uses credential divergent from the rest of the system for git. The name and email are different. The push changes, the following are important
+
+The repository for managing this vault uses credentials divergent from the rest of the system for git. The name and email are different. The push changes, the following are important
 
 ```
 account name: GITnvincAdonis
