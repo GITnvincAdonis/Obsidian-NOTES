@@ -16,6 +16,8 @@
  [[3. Resources/2. Work Setup/2025-03-18 Fix Postgres Error for postgres container|2025-03-18 Fix Postgres Error for postgres container]]
  [[3. Resources/2. Work Setup/2025-03-18 How to set up shoponline Project|2025-03-18 How to set up shoponline Project]]
  [[3. Resources/2. Work Setup/2025-03-18 Setup Plugins in ~.zshrc file|2025-03-18 Setup Plugins in ~.zshrc file]]
+ [[3. Resources/2. Work Setup/2025-03-20 reset branches for git|2025-03-20 reset branches for git]]
+ [[3. Resources/2. Work Setup/2025-03-20 Setup NGROK|2025-03-20 Setup NGROK]]
  [[3. Resources/2. Work Setup/Disabling LAZYVIM plugins|Disabling LAZYVIM plugins]]
  [[3. Resources/2. Work Setup/RESETTING DATABASE DATA IN SHOPONLINE PROJECT. INTELLECTSTORM|RESETTING DATABASE DATA IN SHOPONLINE PROJECT. INTELLECTSTORM]]
  [[3. Resources/2. Work Setup/SETTING UP SSH keys|SETTING UP SSH keys]]
