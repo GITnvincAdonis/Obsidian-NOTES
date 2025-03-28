@@ -11,6 +11,7 @@ creation date: <% tp.file.creation_date() %>
 - [[2025-03-17 Input Remapper]]
 - [[2025-03-17 Set git identity]]
 - Copying while in Tmux
+- [[2025-03-25 Setup Graphviz]]
 - [[2025-03-17 Fzf And ripgrep]]
 - [[2025-03-17 Install Docker]]
 - [[2025-03-17 Install NPM]]
