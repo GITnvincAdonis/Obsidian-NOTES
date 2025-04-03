@@ -153,16 +153,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-28.md",
+                "file": "1. Projects/Daily todos/2025-04-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-28"
+              "title": "2025-04-02"
+            }
+          },
+          {
+            "id": "c659bd9700f43d72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-04-02.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-02"
+            }
+          },
+          {
+            "id": "ec51f26dece23b5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-04-02 Setup Time Doctor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-04-02 Setup Time Doctor"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -194,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pytho",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -342,11 +370,24 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "51229f5ac7380b5c",
+  "active": "ec51f26dece23b5f",
   "lastOpenFiles": [
+    "1. Projects/Daily todos/2025-04-03.md",
+    "1. Projects/Daily todos/2025-04-02 Launch simplecov.md",
+    "3. Resources/2. Work Setup/2025-03-27 Delete Merged GIT branches.md",
+    "1. Projects/Daily todos/2025-04-02.md",
+    "1. Projects/Daily todos/2025-04-02 Setup Time Doctor.md",
+    "1. Projects/Daily todos/2025-04-01.md",
+    "1. Projects/Daily todos/2025-03-31.md",
+    "1. Projects/Daily todos/2025-03-30.md",
+    "3. Resources/Personal/2025-03-22 Workout Schedule.md",
+    "3. Resources/OBSIDIAN SETUP/MANAGING AND SETTING UP OBSIDIAN REPO.md",
+    "3. Resources/OBSIDIAN SETUP/2025-03-17 Setup OBSIDIAN.md",
+    "3. Resources/2. Work Setup/2025-03-17 Install Docker.md",
+    "3. Resources/OBSIDIAN SETUP/_Index_of_OBSIDIAN SETUP.md",
+    "1. Projects/Daily todos/2025-03-28.md",
     "1. Projects/Daily todos/2025-03-27.md",
     "1. Projects/Daily todos/2025-03-26.md",
-    "1. Projects/Daily todos/2025-03-28.md",
     "1. Projects/Daily todos/2025-03-25.md",
     "1. Projects/Daily todos/2025-03-24.md",
     "1. Projects/Daily todos/2025-03-23.md",
@@ -357,19 +398,6 @@
     "1. Projects/Daily todos/2025-03-17.md",
     "1. Projects/Daily todos/2025-03-18.md",
     "1. Projects/IntellectStorm/_Index_of_IntellectStorm.md",
-    "1. Projects/IntellectStorm/2025-03-18 Allow packages state to change.md",
-    "1. Projects/IntellectStorm/2025-03-18 notes on shoponline app.md",
-    "3. Resources/Personal/2025-03-23 how to wash laundry.md",
-    "3. Resources/Personal/2025-03-22 Workout Schedule.md",
-    "3. Resources/2. Work Setup/2025-03-21 Configure letter opener for previewing emails (Rails projects).md",
-    "3. Resources/2. Work Setup/2025-03-27 Delete Merged GIT branches.md",
-    "3. Resources/2. Work Setup/2025-03-25 Enable text wrap in vim.md",
-    "3. Resources/2. Work Setup/2025-03-25 Fix Rails server not running.md",
-    "3. Resources/2. Work Setup/2025-03-25 Setup Graphviz.md",
-    "3. Resources/1. TMU/SETTING UP JUPYTER NOTEBOOK.md",
-    "3. Resources/2. Work Setup/2025-03-17 Setup Dev Environment.md",
-    "3. Resources/2. Work Setup/2025-03-17 Install Docker.md",
-    "3. Resources/2. Work Setup/_Index_of_2. Work Setup.md",
     "3. Resources/Personal",
     "1. Projects/IntellectStorm",
     "2. Areas/Myself",
