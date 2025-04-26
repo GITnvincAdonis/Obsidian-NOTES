@@ -4,193 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "55c7933aea2a1fd9",
+        "id": "30b55b09b3d623ed",
         "type": "tabs",
         "children": [
           {
-            "id": "c5bcf3ebda01cb9f",
+            "id": "bd0b534e84a12784",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-20.md",
+                "file": "1. Projects/Daily todos/2025-04-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20"
+              "title": "2025-04-16"
             }
           },
           {
-            "id": "5060ed563c91757d",
+            "id": "4929d9e8eddcec38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-20.md",
+                "file": "1. Projects/Daily todos/2025-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-20"
+              "title": "2025-04-25"
             }
           },
           {
-            "id": "9c47eebbf4329bd9",
+            "id": "aa8d6a5ab680d087",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-21.md",
+                "file": "1. Projects/Daily todos/2025-04-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-21"
+              "title": "2025-04-25"
             }
           },
           {
-            "id": "8efea94b317b40dd",
+            "id": "ff1bb4ab97bc505c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-03-22.md",
+                "file": "3. Resources/OBSIDIAN SETUP/MANAGING AND SETTING UP OBSIDIAN REPO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-03-22"
-            }
-          },
-          {
-            "id": "cf68d688cb23cead",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-03-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-23"
-            }
-          },
-          {
-            "id": "68dbb55ca6515784",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-25"
-            }
-          },
-          {
-            "id": "17c4733b8c796ae7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-25"
-            }
-          },
-          {
-            "id": "7a10ba186250ebba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-03-25.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-25"
-            }
-          },
-          {
-            "id": "2ff701be90652c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-03-27.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-27"
-            }
-          },
-          {
-            "id": "18a252581fe805a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resources/Personal/2025-03-22 Workout Schedule.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-03-22 Workout Schedule"
-            }
-          },
-          {
-            "id": "fad5600338af451d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-04-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-02"
-            }
-          },
-          {
-            "id": "c659bd9700f43d72",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-04-02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-02"
-            }
-          },
-          {
-            "id": "ec51f26dece23b5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Projects/Daily todos/2025-04-02 Setup Time Doctor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-04-02 Setup Time Doctor"
+              "title": "MANAGING AND SETTING UP OBSIDIAN REPO"
             }
           }
         ],
-        "currentTab": 12
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "repo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -370,34 +245,34 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "ec51f26dece23b5f",
+  "active": "ff1bb4ab97bc505c",
   "lastOpenFiles": [
-    "1. Projects/Daily todos/2025-04-03.md",
-    "1. Projects/Daily todos/2025-04-02 Launch simplecov.md",
+    "1. Projects/Daily todos/2025-04-26.md",
+    "1. Projects/Daily todos/2025-04-25 Conceptualize Models for Proof of address model.md",
+    "1. Projects/Daily todos/2025-04-25 Future Purchases.md",
+    "1. Projects/Daily todos/2025-04-17 Plan gifts for Dad's birthday.md",
+    "1. Projects/Daily todos/2025-04-25.md",
     "3. Resources/2. Work Setup/2025-03-27 Delete Merged GIT branches.md",
-    "1. Projects/Daily todos/2025-04-02.md",
-    "1. Projects/Daily todos/2025-04-02 Setup Time Doctor.md",
-    "1. Projects/Daily todos/2025-04-01.md",
-    "1. Projects/Daily todos/2025-03-31.md",
-    "1. Projects/Daily todos/2025-03-30.md",
-    "3. Resources/Personal/2025-03-22 Workout Schedule.md",
-    "3. Resources/OBSIDIAN SETUP/MANAGING AND SETTING UP OBSIDIAN REPO.md",
-    "3. Resources/OBSIDIAN SETUP/2025-03-17 Setup OBSIDIAN.md",
-    "3. Resources/2. Work Setup/2025-03-17 Install Docker.md",
-    "3. Resources/OBSIDIAN SETUP/_Index_of_OBSIDIAN SETUP.md",
-    "1. Projects/Daily todos/2025-03-28.md",
-    "1. Projects/Daily todos/2025-03-27.md",
-    "1. Projects/Daily todos/2025-03-26.md",
-    "1. Projects/Daily todos/2025-03-25.md",
-    "1. Projects/Daily todos/2025-03-24.md",
-    "1. Projects/Daily todos/2025-03-23.md",
-    "1. Projects/Daily todos/2025-03-22.md",
-    "1. Projects/Daily todos/2025-03-21.md",
+    "Untitled.md",
+    "1. Projects/Daily todos/2025-04-24.md",
+    "1. Projects/Daily todos/2025-04-23.md",
+    "1. Projects/Daily todos/2025-04-22.md",
+    "1. Projects/Daily todos/2025-04-17.md",
+    "1. Projects/Daily todos/2025-04-16.md",
+    "3. Resources/2. Work Setup/2025-03-20 reset branches for git.md",
+    "1. Projects/Daily todos/2025-04-15.md",
+    "1. Projects/Daily todos/2025-04-14.md",
+    "1. Projects/Daily todos/2025-04-11.md",
+    "1. Projects/Daily todos/2025-04-10.md",
     "1. Projects/Daily todos/2025-03-20.md",
-    "1. Projects/Daily todos/2025-03-19.md",
-    "1. Projects/Daily todos/2025-03-17.md",
-    "1. Projects/Daily todos/2025-03-18.md",
-    "1. Projects/IntellectStorm/_Index_of_IntellectStorm.md",
+    "1. Projects/Daily todos/2025-03-21.md",
+    "1. Projects/Daily todos/2025-03-22.md",
+    "1. Projects/Daily todos/2025-03-23.md",
+    "1. Projects/Daily todos/2025-03-25.md",
+    "1. Projects/Daily todos/2025-03-27.md",
+    "3. Resources/Personal/2025-03-22 Workout Schedule.md",
+    "1. Projects/Daily todos/2025-04-02.md",
+    "1. Projects/Daily todos/2025-04-03.md",
     "3. Resources/Personal",
     "1. Projects/IntellectStorm",
     "2. Areas/Myself",
