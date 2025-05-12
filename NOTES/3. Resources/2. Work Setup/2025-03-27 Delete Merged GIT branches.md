@@ -12,6 +12,6 @@ creation date: <% tp.file.creation_date() %>
 Command list:
 ```
 git branch --merged | grep -v -E "\*|main|development" | xargs git branch -d
-git branch -vv | grep "gone" | awk '{print $1}' | xargs -r git branch -D
-```
+git branch -vv | grep "gone" | awk '{print $1}' | xargs -r git branch -D 
+ ```
 Link to original: [[2025-03-27]]
