@@ -4,53 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "ddcf3dbe59561c24",
+        "id": "533e8bb0bf5fd1c2",
         "type": "tabs",
         "children": [
           {
-            "id": "49e38890ea79a5cc",
+            "id": "42968b707e8455b9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-05-07.md",
+                "file": "1. Projects/Daily todos/2025-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-07"
+              "title": "2025-05-22"
             }
           },
           {
-            "id": "a80eaaf9ed172282",
+            "id": "2ec50a05d1873280",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-05-08.md",
+                "file": "1. Projects/Daily todos/2025-05-22.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-08"
+              "title": "2025-05-22"
             }
           },
           {
-            "id": "b17f3f8f79bc3b35",
+            "id": "7c0bddbdc564770b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-05-12.md",
+                "file": "1. Projects/Daily todos/2025-05-27.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-05-12"
+              "title": "2025-05-27"
+            }
+          },
+          {
+            "id": "237cd359b1c1e222",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-05-27.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-27"
+            }
+          },
+          {
+            "id": "d5013b5795d9509c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-05-30.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-30"
+            }
+          },
+          {
+            "id": "f8c40af9e85a9c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-05-31.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-31"
+            }
+          },
+          {
+            "id": "242b3dae7e0a61d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-05-31 Compile Aseprite.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-05-31 Compile Aseprite"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -82,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bra",
+                "query": "ssh",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -230,34 +286,36 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "b17f3f8f79bc3b35",
+  "active": "242b3dae7e0a61d8",
   "lastOpenFiles": [
-    "1. Projects/Daily todos/2025-05-09.md",
-    "1. Projects/Daily todos/2025-05-12.md",
-    "1. Projects/Daily todos/2025-05-08 Install html beautifier.md",
-    "1. Projects/Daily todos/2025-05-08.md",
-    "1. Projects/Daily todos/2025-05-07.md",
-    "1. Projects/Daily todos/2025-05-07 gitlab two factor authentication.md",
-    "1. Projects/Daily todos/2025-05-06.md",
-    "1. Projects/Daily todos/2025-05-02.md",
-    "1. Projects/Daily todos/2025-04-16.md",
-    "1. Projects/Daily todos/2025-04-25.md",
+    "1. Projects/Daily todos/2025-06-01.md",
+    "1. Projects/Daily todos/2025-05-31 Compile Aseprite.md",
+    "1. Projects/Daily todos/2025-05-31.md",
+    "3. Resources/2. Work Setup/SETTING UP SSH keys.md",
+    "1. Projects/Daily todos/2025-05-30 Brainstorm Game ideas.md",
+    "1. Projects/Daily todos/2025-05-30.md",
     "3. Resources/2. Work Setup/2025-03-27 Delete Merged GIT branches.md",
-    "1. Projects/Daily todos/2025-04-30.md",
-    "1. Projects/Daily todos/2025-04-02 Launch simplecov.md",
-    "1. Projects/Daily todos/2025-04-29.md",
+    "4. Archives/Daily/2025-03-27.md",
     "3. Resources/2. Work Setup/_Index_of_2. Work Setup.md",
-    "1. Projects/Daily todos/2025-03-18.md",
-    "3. Resources/2. Work Setup/2025-03-18 Setup Plugins in ~.zshrc file.md",
-    "3. Resources/2. Work Setup/2025-03-25 Fix Rails server not running.md",
-    "1. Projects/Daily todos/2025-04-28.md",
-    "1. Projects/Daily todos/2025-04-25 Future Purchases.md",
-    "1. Projects/Daily todos/2025-04-27.md",
-    "3. Resources/OBSIDIAN SETUP/MANAGING AND SETTING UP OBSIDIAN REPO.md",
-    "1. Projects/Daily todos/2025-04-26.md",
-    "1. Projects/Daily todos/2025-04-25 Conceptualize Models for Proof of address model.md",
-    "1. Projects/Daily todos/2025-04-17 Plan gifts for Dad's birthday.md",
-    "Untitled.md",
+    "1. Projects/Daily todos/2025-05-29.md",
+    "3. Resources/2. Work Setup/2025-05-07 gitlab two factor authentication.md",
+    "1. Projects/Daily todos/2025-05-28.md",
+    "PROOF.md",
+    "1. Projects/Daily todos/2025-05-27 Make a list of tech purchases.md",
+    "1. Projects/Daily todos/2025-05-27.md",
+    "1. Projects/Daily todos/2025-05-23.md",
+    "Changes for email notifications.md",
+    "1. Projects/Daily todos/2025-05-22.md",
+    "1. Projects/Daily todos/2025-05-22 .md",
+    "1. Projects/Daily todos/2025-05-21.md",
+    "1. Projects/Daily todos/2025-05-19.md",
+    "3. Resources/2. Work Setup/2025-04-02 Launch simplecov.md",
+    "4. Archives/IntellectStorm/2025-04-25 Conceptualize Models for Proof of address model.md",
+    "4. Archives/IntellectStorm/2025-04-03 List task to complete.md",
+    "1. Projects/Daily todos/2025-05-20.md",
+    "1. Projects/Daily todos/2025-05-19 Make notes for Proof.md",
+    "4. Archives/Personal",
+    "4. Archives/IntellectStorm",
     "3. Resources/Personal",
     "1. Projects/IntellectStorm",
     "2. Areas/Myself",
@@ -266,8 +324,6 @@
     "3. Resources/1. TMU",
     "Untitled.canvas",
     "3. Resources/2. Work Setup/PLUGINS",
-    "3. Resources/Untitled/Untitled",
-    "3. Resources/2. Work Setup",
-    "1. Projects/Daily todos"
+    "3. Resources/Untitled/Untitled"
   ]
 }

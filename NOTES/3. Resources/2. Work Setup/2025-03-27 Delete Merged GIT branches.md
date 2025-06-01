@@ -7,7 +7,7 @@ creation date: <% tp.file.creation_date() %>
 > #### 2. Get all with the term "gone"
 > #### 3. Prune remote refs
 > #### 4. Delete branches
-
+f
 
 Command list:
 ```
