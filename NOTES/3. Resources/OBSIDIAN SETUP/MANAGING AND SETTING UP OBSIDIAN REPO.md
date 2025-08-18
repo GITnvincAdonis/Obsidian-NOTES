@@ -7,7 +7,7 @@ The repository for managing this vault uses credentials divergent from the rest 
 
 ```
 account name: GITnvincAdonis
-password: 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 (for now. Will expire 90 days from now)
+password: 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 (for now. Will expire 90 days from now)
 
 command: git push (should setup lazygit in future to handle repo management)
 ```
