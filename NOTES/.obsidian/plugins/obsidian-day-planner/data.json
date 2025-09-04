@@ -1,13 +1,13 @@
 {
   "snapStepMinutes": 10,
   "progressIndicator": "bar",
-  "showTaskNotification": false,
+  "showTaskNotification": true,
   "zoomLevel": 2,
   "timelineIcon": "calendar-with-checkmark",
   "endLabel": "All done",
   "startHour": 6,
   "timelineDateFormat": "YYYY-MM-DD",
-  "centerNeedle": false,
+  "centerNeedle": true,
   "plannerHeading": "Day planner",
   "plannerHeadingLevel": 2,
   "timelineColored": false,
@@ -24,7 +24,7 @@
   "showUnscheduledNestedTasks": true,
   "showNow": true,
   "showNext": true,
-  "pluginVersion": "0.27.0",
+  "pluginVersion": "0.28.0",
   "showCompletedTasks": true,
   "showSubtasksInTaskBlocks": true,
   "icals": [],
@@ -35,5 +35,7 @@
   "sortTasksInPlanAfterEdit": true,
   "firstDayOfWeek": "monday",
   "multiDayRange": "3-days",
-  "showTimeTracker": false
+  "showTimeTracker": false,
+  "showActiveClocks": false,
+  "rawIcals": []
 }
