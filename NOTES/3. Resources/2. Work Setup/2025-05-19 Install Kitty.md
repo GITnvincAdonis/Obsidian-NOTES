@@ -12,7 +12,7 @@ Create a config file in ./config
 cd ~/.config/kitty
 ```
 
-Create a kitty.config:
+Create a kitty.conf:
 ```
 startup_session launch.conf
 font_family FantasqueSansM Nerd Font Mono Bold
@@ -49,10 +49,9 @@ cursor #dddddd
 
 ```
 
-Create a launch.config file to automatically open tmux on launch:
+Create a launch.conf file to automatically open tmux on launch:
 ```
-launch sh -c "tmux"
-
+launch sh -c "tmux attach -t mysession || tmux new-session -s mysession /bin/zsh"
 ```
 
 

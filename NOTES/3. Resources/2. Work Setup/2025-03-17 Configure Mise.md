@@ -2,7 +2,8 @@
 creation date: <% tp.file.creation_date() %>
 ---
 ## Install
-```shell
+
+```
 curl https://mise.run | sh
 ```
 
@@ -11,6 +12,18 @@ Hook mise into your shell (pick the right one for your shell):
 ```shell
 echo 'eval "$(~/.local/bin/mise activate bash)"' >> ~/.bashrc
 echo 'eval "$(~/.local/bin/mise activate zsh)"' >> ~/.zshrc
+```
+
+Dont Forget to reload ZSH config:
+
+```
+source ~/.zshrc
+```
+
+To ensure correct setup, run:
+
+```
+mise doctor
 ```
 
 

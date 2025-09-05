@@ -18,7 +18,7 @@ nvim ~/.zshrc
 > A plugin such as rails, needs to be added within this parenthesis, allowing zsh to access all of its commands.
 > The update zshrc file will have:
 > ```
-> plugins=(rails) 
+> plugins=(rails git mise) 
 > ```
 
 
