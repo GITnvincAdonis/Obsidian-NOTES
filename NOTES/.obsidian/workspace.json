@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "988130ed3d457c03",
+            "id": "fcdbe6fd7eb828d3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resources/2. Work Setup/2025-09-05 Setup Laptop With Work Environment.md",
+                "file": "1. Projects/Daily todos/2025-09-08 Deploying a digital droplet.md",
                 "mode": "source",
                 "source": false
               },
@@ -93,6 +93,10 @@
           }
         ],
         "currentTab": 4
+              "title": "2025-09-08 Deploying a digital droplet"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,6 +129,7 @@
               "type": "search",
               "state": {
                 "query": "create",
+                "query": "kamal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -337,6 +342,34 @@
     "3. Resources/2. Work Setup/2025-05-08 Install html beautifier.md",
     "3. Resources/2. Work Setup/WORKFLOW TOOLS.md",
     "4. Archives/Daily/2025-03-18.md",
+  "active": "fcdbe6fd7eb828d3",
+  "lastOpenFiles": [
+    "1. Projects/Daily todos/2025-08-26.md",
+    "1. Projects/Daily todos/2025-08-27.md",
+    "1. Projects/Daily todos/2025-08-28.md",
+    "1. Projects/Daily todos/2025-08-29.md",
+    "1. Projects/Daily todos/2025-08-30.md",
+    "1. Projects/Daily todos/2025-08-31.md",
+    "1. Projects/Daily todos/2025-09-01.md",
+    "1. Projects/Daily todos/2025-09-02.md",
+    "1. Projects/Daily todos/2025-09-03.md",
+    "1. Projects/Daily todos/2025-09-04.md",
+    "1. Projects/Daily todos/2025-09-05.md",
+    "1. Projects/Daily todos/2025-09-07.md",
+    "1. Projects/Daily todos/2025-09-08.md",
+    "1. Projects/Daily todos/2025-09-08 Deploying a digital droplet.md",
+    "3. Resources/2. Work Setup/2025-03-17 Setup Dev Environment.md",
+    "3. Resources/2. Work Setup/2025-09-05 Setup Laptop With Work Environment.md",
+    "1. Projects/Daily todos/2025-09-03 Skills to learn for SWE.md",
+    "Untitled 1.md",
+    "1. Projects/Daily todos/2025-08-30 LVE467207.md",
+    "1. Projects/Daily todos/2025-08-30 AH469032.md",
+    "1. Projects/Daily todos/2025-08-30 BSA467122.md",
+    "1. Projects/Daily todos/2025-08-30 468736.md",
+    "1. Projects/Daily todos/2025-09-05 Allow new session to open zsh.md",
+    "1. Projects/Daily todos/2025-09-05 Fix Postgres Docker compose file.md",
+    "1. Projects/Daily todos/2025-09-05 Setup Icons And fonts.md",
+    "3. Resources/2. Work Setup/2025-03-17 Set git identity.md",
     "Excalidraw",
     "Untitled.base",
     "3. Resources/AJs NYC",
