@@ -12,7 +12,7 @@
  [[3. Resources/2. Work Setup/2025-03-17 Install xclip|2025-03-17 Install xclip]]
  [[3. Resources/2. Work Setup/2025-03-17 Set git identity|2025-03-17 Set git identity]]
  [[3. Resources/2. Work Setup/2025-03-17 Setup Dev Environment|2025-03-17 Setup Dev Environment]]
- [[3. Resources/2. Work Setup/2025-03-18 Create test database for shoponline|2025-03-18 Create test database for shoponline]]
+ [[3. Resources/2. Work Setup/2025-03-18 Create test database|2025-03-18 Create test database]]
  [[3. Resources/2. Work Setup/2025-03-18 Fix Postgres Error for postgres container|2025-03-18 Fix Postgres Error for postgres container]]
  [[3. Resources/2. Work Setup/2025-03-18 How to set up shoponline Project|2025-03-18 How to set up shoponline Project]]
  [[3. Resources/2. Work Setup/2025-03-18 Setup Plugins in ~.zshrc file|2025-03-18 Setup Plugins in ~.zshrc file]]

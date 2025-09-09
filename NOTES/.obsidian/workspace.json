@@ -41,12 +41,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Projects/Daily todos/2025-09-05.md",
+                "file": "3. Resources/AJs NYC/2025-08-30 468736.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-05"
+              "title": "2025-08-30 468736"
+            }
+          },
+          {
+            "id": "700463df78223d27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resources/AJs NYC/2025-08-30 468736.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-08-30 468736"
+            }
+          },
+          {
+            "id": "01447a444092602a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Projects/Daily todos/2025-09-09.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-09"
             }
           },
           {
@@ -64,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -96,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "create",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +145,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -280,8 +309,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bb97846e3fa26250",
+  "active": "01447a444092602a",
   "lastOpenFiles": [
+    "3. Resources/2. Work Setup/2025-03-18 Create test database.md",
+    "1. Projects/Daily todos/2025-09-09.md",
+    "1. Projects/Daily todos/2025-09-08.md",
+    "1. Projects/Daily todos/2025-08-30 LVE467207.md",
+    "1. Projects/Daily todos/2025-08-30 AH469032.md",
+    "3. Resources/AJs NYC/2025-08-30 BSA467122.md",
+    "3. Resources/AJs NYC/2025-08-30 468736.md",
+    "1. Projects/Daily todos/2025-09-07.md",
+    "1. Projects/Daily todos/2025-08-30 Research Quotes.md",
+    "3. Resources/AJs NYC/2025-08-30 Email template for RFQ.md",
+    "1. Projects/Daily todos/2025-09-05.md",
     "1. Projects/Daily todos/2025-09-05 Setup Icons And fonts.md",
     "1. Projects/Daily todos/2025-09-05 Fix Postgres Docker compose file.md",
     "1. Projects/Daily todos/2025-09-05 Allow new session to open zsh.md",
@@ -297,17 +337,6 @@
     "3. Resources/2. Work Setup/2025-05-08 Install html beautifier.md",
     "3. Resources/2. Work Setup/WORKFLOW TOOLS.md",
     "4. Archives/Daily/2025-03-18.md",
-    "3. Resources/2. Work Setup/2025-03-18 How to set up shoponline Project.md",
-    "3. Resources/2. Work Setup/2025-09-05 ZSH Config.md",
-    "3. Resources/2. Work Setup/_Index_of_2. Work Setup.md",
-    "3. Resources/2. Work Setup/2025-03-18 Setup Plugins in ~.zshrc file.md",
-    "1. Projects/Daily todos/2025-09-05.md",
-    "3. Resources/2. Work Setup/2025-03-25 Fix Rails server not running.md",
-    "4. Archives/Daily/2025-03-25.md",
-    "3. Resources/2. Work Setup/RESETTING DATABASE DATA IN SHOPONLINE PROJECT. INTELLECTSTORM.md",
-    "1. Projects/Daily todos/_Index_of_Daily todos.md",
-    "3. Resources/2. Work Setup/2025-03-18 Fix Postgres Error for postgres container.md",
-    "1. Projects/Daily todos/2025-08-18.md",
     "Excalidraw",
     "Untitled.base",
     "3. Resources/AJs NYC",
